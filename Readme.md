@@ -120,7 +120,7 @@
 <h2 align="center">🌟 Open Source Contributions</h2>
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/File:Wikimedia-logo_black.svg" alt="Open Source" width="200" height="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Wikimedia-logo_black.svg" alt="Open Source" width="200" height="200"/>
 </p>
 
 <p align="center">
