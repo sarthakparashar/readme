@@ -26,51 +26,49 @@
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
 
+<h3 align="center">DevOps and Cloud Tools</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+</p>
+
+<h3 align="center">Monitoring and Security</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
+  <!-- PagerDuty, Okta, and Veza don't have icons in DevIcon, so we'll skip them for now -->
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" alt="MySQL" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
+<h3 align="center">Open Source</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/ldWSVrS9Q5Ous/giphy.gif" alt="GitLab" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="Jenkins" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Docker" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" alt="AWS" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" alt="Terraform" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/YU5xQ2BEANPmWGZhTP/giphy.gif" alt="Bash" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Linux" width="100" height="100"/>
+  <!-- Wikimedia doesn't have an icon in DevIcon, so we'll skip it for now -->
 </p>
 
-<h3 align="center">Monitoring & Security</h3>
+<h3 align="center">Additional Skills</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif" alt="Grafana" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/26ufcVAp3AiJJsrIs/giphy.gif" alt="PagerDuty" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Okta" width="100" height="100"/>
-</p>
-
-<h3 align="center">Other</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Lambda" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Veza" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Wikimedia" width="100" height="100"/>
+  <!-- Lambda, Okta Workflow, Veza, IAM, Distributive Computing, Serverless, and Microservices don't have specific icons in DevIcon -->
+  <!-- You might want to use custom icons or logos for these -->
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
