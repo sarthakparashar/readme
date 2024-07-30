@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg" alt="PagerDuty" width="50" height="50"/>
-  <img src="https://veza.com/wp-content/uploads/2022/03/veza-logo-1.svg" alt="Veza" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/v.svg" alt="Veza" width="50" height="50"/>
 </p>
 
 <h3 align="center">Frontend</h3>
