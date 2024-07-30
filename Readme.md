@@ -108,7 +108,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sarthakparashar"><img src="https://img.shields.io/badge/-Sarthak%20Parashar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:@gmail.com"><img src="https://img.shields.io/badge/-s-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://sarthakparashar.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 
