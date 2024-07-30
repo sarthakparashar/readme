@@ -73,7 +73,7 @@
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="IAM" width="50" height="50"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/serverless.svg" alt="Serverless" width="50" height="50"/>
+<img src="https://www.svgrepo.com/svg/354334/serverless" alt="Serverless" width="50" height="50"/>
 
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/microservices-3678091-3061760.png" alt="Microservices" width="50" height="50"/>
 </p>
