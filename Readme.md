@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=DevOps+Engineer;Cloud+Enthusiast;Continuous+Learner;Innovation+Driver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=DevOps+Engineer;Full+Stack+Developer;Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <p align="center">
   <samp>
-    I'm a DevOps⚙️ Engineer passionate about optimizing software development and deployment processes. With extensive knowledge in cloud computing, containerization, and automation, I drive innovation and deliver high-quality results. I'm committed to continuous learning and always seeking new ways to enhance workflows and improve software delivery. 🤖
+    I'm a DevOps Engineer and Full Stack Developer passionate about optimizing software development and deployment processes. With extensive knowledge in cloud computing, containerization, and automation, I drive innovation and deliver high-quality results. I'm committed to continuous learning and always seeking new ways to enhance workflows and improve software delivery.
   </samp>
 </p>
 
@@ -30,22 +30,47 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <a href="https://www.linux.org/" target="_blank"><img src="https://media.giphy.com/media/9dPDN0CDo9WY0aeQb4/giphy.gif" alt="Linux" width="60" height="60"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" alt="AWS" width="60" height="60"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Docker" width="60" height="60"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="Kubernetes" width="60" height="60"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" alt="Terraform" width="60" height="60"/></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="Jenkins" width="60" height="60"/></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" alt="Ansible" width="60" height="60"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="60" height="60"/></a>
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="100" height="100"/>
 </p>
 
-<h3 align="center">Monitoring</h3>
-
+<h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://grafana.com/" target="_blank"><img src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif" alt="Grafana" width="60" height="60"/></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Prometheus" width="60" height="60"/></a>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" alt="MySQL" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="100" height="100"/>
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/ldWSVrS9Q5Ous/giphy.gif" alt="GitLab" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="Jenkins" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Docker" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" alt="AWS" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" alt="Terraform" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/YU5xQ2BEANPmWGZhTP/giphy.gif" alt="Bash" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Linux" width="100" height="100"/>
+</p>
+
+<h3 align="center">Monitoring & Security</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif" alt="Grafana" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/26ufcVAp3AiJJsrIs/giphy.gif" alt="PagerDuty" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Okta" width="100" height="100"/>
+</p>
+
+<h3 align="center">Other</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Lambda" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Veza" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Wikimedia" width="100" height="100"/>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -85,6 +110,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</p>
+
+<h2 align="center">🌟 Open Source Contributions</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Open Source" width="200" height="200"/>
+</p>
+
+<p align="center">
+  I'm passionate about contributing to open-source projects, particularly Wikimedia. Check out my contributions and let's collaborate on making the digital world more open and accessible!
 </p>
 
 <div align="center">
