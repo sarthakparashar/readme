@@ -1,46 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sarthak Parashar</h1>
-
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer;Cloud+Enthusiast;Continuous+Learner" alt="Typing SVG" />
-  </a>
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Sarthak+Parashar!;DevOps+Engineer...;Cloud+Enthusiast...;And+Continuous+Learner!;" alt="Typing SVG">
+</div>
 
 <p align="center">
-  DevOps Engineer passionate about optimizing software development and deployment processes. 
-  Experienced in cloud computing, containerization, and automation.
+  <img src="https://github.com/sarthakparashar/sarthakparashar/blob/main/assets/devops-animation.gif" alt="DevOps Animation" width="500">
 </p>
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakparashar&theme=dark" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<h2 align="left">🛠 Skills</h2>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
-
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakparashar&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<h2 align="left">📫 Connect with me</h2>
-
-<p align="left">
-  <a href="https://linkedin.com/in/sarthakparashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthakparashar" height="30" width="40" /></a>
-  <a href="https://sarthakparashar.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sarthakparashar" height="30" width="40" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakparashar&theme=radical" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthakparashar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakparashar&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
+
+<h2 align="center">📝 Latest Blog Posts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <a href="https://sarthakparashar.hashnode.dev/">➡️ More blog posts</a>
+</p>
+
+<h2 align="center">🤝 Connect with me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sarthakparashar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://sarthakparashar.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+  <a href="mailto:sarthakparashar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarthakparashar&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views">
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Thanks+for+visiting!;Come+back+soon!" alt="Typing SVG">
+</div>
