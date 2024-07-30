@@ -30,18 +30,19 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </p>
 
 <h3 align="center">Monitoring and Security</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
-  <!-- PagerDuty, Okta, and Veza don't have icons in DevIcon, so we'll skip them for now -->
+  <img src="https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg" alt="PagerDuty" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/vezeracom/vezeracom-icon.svg" alt="Veza" width="50" height="50"/>
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -67,8 +68,14 @@
 
 <h3 align="center">Additional Skills</h3>
 <p align="center">
-  <!-- Lambda, Okta Workflow, Veza, IAM, Distributive Computing, Serverless, and Microservices don't have specific icons in DevIcon -->
-  <!-- You might want to use custom icons or logos for these -->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Lambda" width="50" height="50"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="IAM" width="50" height="50"/>
+
+<img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="Serverless" width="50" height="50"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Microservices" width="50" height="50"/>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
