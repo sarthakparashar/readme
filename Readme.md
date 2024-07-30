@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg" alt="PagerDuty" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/vezeracom/vezeracom-icon.svg" alt="Veza" width="50" height="50"/>
+  <img src="https://veza.com/wp-content/uploads/2022/03/veza-logo-1.svg" alt="Veza" width="50" height="50"/>
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -63,7 +63,7 @@
 
 <h3 align="center">Open Source</h3>
 <p align="center">
-  <!-- Wikimedia doesn't have an icon in DevIcon, so we'll skip it for now -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Wikimedia_Community_Logo.svg" alt="Wikimedia" width="50" height="50"/>
 </p>
 
 <h3 align="center">Additional Skills</h3>
@@ -71,11 +71,11 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Lambda" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="IAM" width="50" height="50"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="IAM" width="50" height="50"/>
 
-<img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="Serverless" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/serverless.svg" alt="Serverless" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Microservices" width="50" height="50"/>
+<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/microservices-3678091-3061760.png" alt="Microservices" width="50" height="50"/>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
