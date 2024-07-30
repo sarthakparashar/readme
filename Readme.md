@@ -63,7 +63,7 @@
 
 <h3 align="center">Open Source</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Wikimedia_Community_Logo.svg" alt="Wikimedia" width="50" height="50"/>
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyLjA5IDEzLjExOWwuMjYyLjEzLjI2Mi0uMTMuODc4LS41NTEgNC4zODItMi43NTYgMS4wNzQtLjY3OFYxMy41bC02LjU5NyA0LjMxLTYuNTk3LTQuMzF2LTEuNTY2bDEuMDc0LjY3OCA0LjM4MiAyLjc1Ni44NzguNTUxek0xMiAyLjAxMmw5LjUgNS41djEzLjk3NmwtOS41IDUuNS05LjUtNS41VjcuNTEybDkuNS01LjV6Ii8+PC9zdmc+" alt="Wikimedia" width="50" height="50"/>
 </p>
 
 <h3 align="center">Additional Skills</h3>
